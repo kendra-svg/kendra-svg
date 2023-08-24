@@ -8,12 +8,18 @@
 ----------------
 
 
-## Languages
+## Programming Languages
 [<img alt="alt_text" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img alt="alt_text" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/) 
 
-## Tools
+## Markup Laguages
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />](https://www.w3.org/html/)
+
+## Stylesheet Languages
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />](https://www.w3schools.com/css/)
+
+
+
+## Tools
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />](https://nodejs.org) 
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />](https://www.mongodb.com/) 
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />](https://github.com/kendra-svg) 
