@@ -40,9 +40,11 @@
 -----
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&show_icons=true&locale=en&layout=compact" width="400" " /></p>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kendra-svg&show_icons=true&locale=en" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats-kendra-svg.vercel.app/api?username=kendra-svg&show_icons=true&locale=en"  /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kendra-svg&layout=compact" /></p>
+
+
 
 
 
