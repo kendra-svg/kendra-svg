@@ -11,6 +11,7 @@
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />](https://www.w3schools.com/css/)
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />](https://nodejs.org) 
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />](https://www.mongodb.com/) 
+[<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />](https://github.com/kendra-svg) 
 
 
 
