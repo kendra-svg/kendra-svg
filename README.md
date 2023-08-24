@@ -12,7 +12,7 @@
 </p>
 
 
-----------------
+
 [![Visits Count](https://badges.pufler.dev/visits/kendra-svg/kendra-svg)](https://badges.pufler.dev)
 
 
