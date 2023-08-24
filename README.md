@@ -1,10 +1,9 @@
-# Hi, I'm Kendra 👋🏻
+# kendra-svg
+<h1 align="center">Hi 👋🏻, I'm Kendra Sancho Vega</h1>
+<h3 align="center">A passionate Front End Developer (in the works)</h3>
 
-
-# Front End Developer (in the works)
-
-☁️ Learning Cloud computing with AWS
-📫 kendrasvega@gmail.com
+- ☁️ Learning AWS Cloud Computing
+- 📫 **kendrasvega@gmail.com**
 
 ----------------
 
@@ -20,6 +19,9 @@
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />](https://github.com/kendra-svg) 
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />](https://git-scm.com/) 
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" />](https://www.djangoproject.com/) 
+[<img alt="alt_text" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />](https://postman.com) 
+
+
 
 
 
