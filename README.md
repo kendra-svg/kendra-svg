@@ -2,6 +2,13 @@
 
 -------------------
 
+
+## Languages
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> a/>
+
+
+
 <!--
 **kendra-svg/kendra-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
