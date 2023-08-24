@@ -38,13 +38,12 @@
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />](https://git-scm.com/) 
 
 -----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&show_icons=true&locale=en&layout=compact"  width="350" height="186.66" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&show_icons=true&locale=en&layout=compact"  width="350" height="186.66" />
+<img  src="https://github-readme-stats-kendra-svg.vercel.app/api?username=kendra-svg&show_icons=true&locale=en"  width="400" height="186.66" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-kendra-svg.vercel.app/api?username=kendra-svg&show_icons=true&locale=en"  width="400" height="186.66" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kendra-svg&layout=compact" /></p>
+</p>
+<p></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kendra-svg&layout=compact" /></p>
 
 
 
