@@ -1,6 +1,7 @@
 # Hi, I'm Kendra 👋🏻
 
 -------------------
+##Front End Develeper ###In The Works
 
 
 ## Languages
