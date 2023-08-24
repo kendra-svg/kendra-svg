@@ -4,7 +4,7 @@
 
 [![Visits Count](https://badges.pufler.dev/visits/kendra-svg/kendra-svg)](https://badges.pufler.dev)
 
-- ☁️ Learning AWS Cloud Computing
+- ☁️ Currently mastering JavaScript
 - 📫 **kendrasvega@gmail.com**
 
 ----------------
