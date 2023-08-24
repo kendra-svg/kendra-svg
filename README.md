@@ -10,11 +10,7 @@
 
 ## Programming Languages
 [<img alt="alt_text" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img alt="alt_text" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/) 
-
-## Markup Laguages
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />](https://www.w3.org/html/)
-
-## Stylesheet
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />](https://www.w3schools.com/css/)
 
 
