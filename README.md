@@ -6,11 +6,13 @@
 ## Languages
 [<img alt="alt_text" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img alt="alt_text" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.python.org/) 
 
+## Tools
+[<img alt="alt_text" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />](https://nodejs.org) 
 
 
 
 <!--
-**kendra-svg/kendra-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kendra-sg/kendra-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
