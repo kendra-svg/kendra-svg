@@ -14,7 +14,7 @@
 ## Markup Laguages
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />](https://www.w3.org/html/)
 
-## Stylesheet Languages
+## Stylesheet
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />](https://www.w3schools.com/css/)
 
 
