@@ -25,7 +25,12 @@
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />](https://github.com/kendra-svg) 
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />](https://git-scm.com/) 
 
+-----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&show_icons=true&locale=en&layout=compact"/></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kendra-svg&show_icons=true&locale=en" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kendra-svg&" /></p>
 
 
 
