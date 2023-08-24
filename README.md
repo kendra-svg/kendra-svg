@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=b1kbLwvqugk">
-    <img src="./header3.png" alt="Header Image">
+    <img src="./header3.PNG" alt="Header Image">
   </a>
 </p>
 
