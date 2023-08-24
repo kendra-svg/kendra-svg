@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋🏻, I'm Kendra Sancho Vega</h1>
 <h3 align="center">A passionate Front End Developer (in the works)</h3>
 
-
-
-<a href="https://www.youtube.com/watch?v=b1kbLwvqugk" syze="16"> It's me, Hi  
+[<img src="./header.png" />](https://www.youtube.com/watch?v=b1kbLwvqugk)
 
 [![Visits Count](https://badges.pufler.dev/visits/kendra-svg/kendra-svg)](https://badges.pufler.dev)
+----------------
 
 - ☁️ Currently mastering JavaScript
 - 📫 **kendrasvega@gmail.com**
