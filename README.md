@@ -1,7 +1,12 @@
 # Hi, I'm Kendra 👋🏻
 
--------------------
-##Front End Develeper ###In The Works
+
+# Front End Developer (in the works)
+
+☁️ Learning Cloud computing with AWS
+📫 kendrasvega@gmail.com
+
+----------------
 
 
 ## Languages
@@ -13,6 +18,8 @@
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />](https://nodejs.org) 
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />](https://www.mongodb.com/) 
 [<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />](https://github.com/kendra-svg) 
+[<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />](https://git-scm.com/) 
+[<img alt="alt_text" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" />](https://www.djangoproject.com/) 
 
 
 
