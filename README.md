@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋🏻, I'm Kendra Sancho Vega</h1>
 <h3 align="center">A passionate Front End Developer (in the works)</h3>
 
-[<img src="./header.png" style="max-width: 50%;" align="center"/>](https://www.youtube.com/watch?v=b1kbLwvqugk)
 
 
+
+<a href="https://www.youtube.com/watch?v=b1kbLwvqugk" align="center"> <img src="./header.png" style="width: 50%;"> </a>
 ----------------
 ----------------
 [![Visits Count](https://badges.pufler.dev/visits/kendra-svg/kendra-svg)](https://badges.pufler.dev)
