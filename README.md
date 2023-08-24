@@ -38,7 +38,7 @@
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />](https://git-scm.com/) 
 
 -----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&show_icons=true&locale=en&layout=compact"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&show_icons=true&locale=en&layout=compact" width="470" height"100" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kendra-svg&show_icons=true&locale=en" /></p>-->
 
