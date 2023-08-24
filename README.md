@@ -42,6 +42,8 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats-kendra-svg.vercel.app/api?username=kendra-svg&show_icons=true&locale=en"  width="400" height="186.66" /></p>
 
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kendra-svg&layout=compact" /></p>
 
 
