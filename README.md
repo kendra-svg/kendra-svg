@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=b1kbLwvqugk" <img src="./header.PNG" /> </a>
+  <a href="https://www.youtube.com/watch?v=b1kbLwvqugk" <img src="./header.png" /> </a>
 </p>
 
 <!--[<img  src="./header.PNG" />](https://www.youtube.com/watch?v=b1kbLwvqugk)-->
