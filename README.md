@@ -5,7 +5,7 @@
 
 
 
-<a href="https://www.youtube.com/watch?v=b1kbLwvqugk" align="center"> <img src="./header.png" style="width: 50%;"> </a>
+<a href="https://www.youtube.com/watch?v=b1kbLwvqugk" align="center"> <img src="./header.png" style="width: 50%;" align="center"> </a>
 ----------------
 ----------------
 [![Visits Count](https://badges.pufler.dev/visits/kendra-svg/kendra-svg)](https://badges.pufler.dev)
