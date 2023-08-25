@@ -36,6 +36,8 @@
 [<img alt="alt_text" width="60px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />](https://postman.com) 
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />](https://github.com/kendra-svg) 
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />](https://git-scm.com/) 
+[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" />](https://expressjs.com/) 
+
 
 -----
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&show_icons=true&locale=en&layout=compact"  width="350" height="186.66" />
