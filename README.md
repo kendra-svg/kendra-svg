@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a target: "_blank" href="https://www.youtube.com/watch?v=b1kbLwvqugk">
+  <a target= "_blank" href="https://www.youtube.com/watch?v=b1kbLwvqugk">
     <img src="./header3.PNG" alt="Header Image" >
   </a>
 </p>
