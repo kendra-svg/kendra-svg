@@ -41,7 +41,7 @@
 
 -----
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&show_icons=true&locale=en&layout=compact"  width="350" height="186.66" />
-<img  src="https://github-readme-stats-kendra-svg.vercel.app/api?username=kendra-svg&show_icons=true&locale=en"  width="400" height="186.66" />
+
 
 </p>
 <p></p>
