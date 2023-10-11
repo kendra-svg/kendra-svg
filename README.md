@@ -1,6 +1,6 @@
 # kendra-svg 🖥️
 <h1 align="center">Hi 👋🏻, I'm Kendra Sancho Vega</h1>
-<h3 align="center">A passionate Front End Developer (in the works)</h3>
+<h3 align="center">A passionate Software Developer Student</h3>
 
 
 
