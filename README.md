@@ -40,7 +40,7 @@
 
 
 -----
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&show_icons=true&locale=en&layout=compact"  width="350" height="186.66" />
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&show_icons=true&locale=en&layout=compact"  width="400" height="200" />
 
 
 </p>
