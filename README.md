@@ -45,7 +45,7 @@
 
 </p>
 <p></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kendra-svg&layout=compact" /></p>
+
 
 
 
