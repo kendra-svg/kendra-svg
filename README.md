@@ -16,7 +16,7 @@
 [![Visits Count](https://badges.pufler.dev/visits/kendra-svg/kendra-svg)](https://badges.pufler.dev/visits/kendra-svg/kendra-svg)
 
 
-- 📚 I'm still learning JavaScript
+- 📚 I'm still learning Java
 - 📫 Here's how you can reach me: **kendrasvega@gmail.com**
 
 ----------------
