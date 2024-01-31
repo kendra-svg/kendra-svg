@@ -1,22 +1,29 @@
-# kendra-svg 🖥️
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad97e1&height=120&fontSize=30&fontColor=d297e1&animation=twinkling&fontAlignY=30&section=header"/>
 <h1 align="center">Hi 👋🏻, I'm Kendra Sancho Vega</h1>
 <h3 align="center">A passionate Software Developer Student</h3>
 
 
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.youtube.com/watch?v=b1kbLwvqugk">
     <img src="./header3.PNG" alt="Header Image" >
   </a>
-</p>
+</p>-->
 
 
 
 [![Visits Count](https://badges.pufler.dev/visits/kendra-svg/kendra-svg)](https://badges.pufler.dev/visits/kendra-svg/kendra-svg)
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/kendra-sancho-vega/" target="_blank" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-191414?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=ad97e1&amp;link=https://www.linkedin.com/in/kendra-sancho-vega/"></a>
+  <a href="mailto:kendrasvega@gmail.com" target="_blank" alt="Gmail">
+  <img src= "https://img.shields.io/badge/-Gmail-191414?style=for-the-badge&amp;logo=Gmail&amp;logoColor=ad97e1&amp;link=mailto:kendrasvega@gmail.com"></a>
+  <br>
+</div>
 
-- 📫 Here's how you can reach me: **kendrasvega@gmail.com**
+<!--- 📫 Here's how you can reach me: **kendrasvega@gmail.com**-->
 
 
 
@@ -51,8 +58,12 @@
 
 
 -----
-<p align="center"><img decoding="async" loading="lazy"  src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css"  width="400" height="200" />
+<div align="center">  
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=d297e1&hide_border=true&layout=compact&theme=radical&hide=html,css"/>
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kendra-svg&custom_title=Stats%3A&bg_color=0d1117&title_color=d297e1&hide_border=true&layout=compact&theme=radical"/>
+  </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad97e1&height=120&section=footer"/>
 
 </p>
 <p></p>
