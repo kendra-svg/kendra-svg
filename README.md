@@ -53,6 +53,7 @@
 [<img alt="alt_text" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" />](https://bitbucket.org/) 
 [<img alt="alt_text" width="60px" src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" />](https://www.jetbrains.com/idea/)
 [<img alt="alt_text" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
+[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" />](https://visualstudio.microsoft.com/es/)
 
 
 -----
