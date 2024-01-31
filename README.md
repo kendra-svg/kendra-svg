@@ -5,25 +5,20 @@
 
 
 
-<!-- <p align="center">
-  <a href="https://www.youtube.com/watch?v=b1kbLwvqugk">
-    <img src="./header3.PNG" alt="Header Image" >
-  </a>
-</p>-->
-
-
-
-[![Visits Count](https://badges.pufler.dev/visits/kendra-svg/kendra-svg)](https://badges.pufler.dev/visits/kendra-svg/kendra-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kendra-sancho-vega/" target="_blank" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-191414?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=ad97e1&amp;link=https://www.linkedin.com/in/kendra-sancho-vega/"></a>
+  <img  src="https://img.shields.io/badge/-Linkedin-191414?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=ad97e1&amp;link=https://www.linkedin.com/in/kendra-sancho-vega/"></a>
   <a href="mailto:kendrasvega@gmail.com" target="_blank" alt="Gmail">
   <img src= "https://img.shields.io/badge/-Gmail-191414?style=for-the-badge&amp;logo=Gmail&amp;logoColor=ad97e1&amp;link=mailto:kendrasvega@gmail.com"></a>
   <br>
 </div>
 
-<!--- 📫 Here's how you can reach me: **kendrasvega@gmail.com**-->
+<div align="center">
+   <img width="88px" height="28px" src="https://visits.dashroshan.com/CZaKhzA1cMo94kzKDpjg?label=VISITS&shadow=0&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=ad97e1&labelTextColor=FFFFFF&countTextColor=FFFFFF"/>
+</div>
+
+
 
 
 
