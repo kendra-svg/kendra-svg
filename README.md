@@ -32,10 +32,10 @@
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />](https://www.w3.org/html/)
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />](https://www.w3schools.com/css/)
 
-[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />](https://nodejs.org) 
+[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" />](https://nodejs.org) 
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />](https://www.mongodb.com/) 
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" />](https://postman.com) 
-[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" />](https://expressjs.com/) 
+[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" />](https://expressjs.com/) 
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" />](https://www.djangoproject.com/) 
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" />](https://www.mysql.com/) 
 
@@ -43,9 +43,9 @@
 
 ## Tools
 
-[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />](https://github.com/kendra-svg) 
+[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" />](https://github.com/kendra-svg) 
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />](https://git-scm.com/) 
-[<img alt="alt_text" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" />](https://bitbucket.org/) 
+[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" />](https://vercel.com/) 
 [<img alt="alt_text" width="60px" src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" />](https://www.jetbrains.com/idea/)
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" />](https://code.visualstudio.com/)
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" />](https://visualstudio.microsoft.com/es/)
