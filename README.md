@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad97e1&height=120&fontSize=30&fontColor=d297e1&animation=twinkling&fontAlignY=30&section=header"/>
 <h1 align="center">Hey! I'm Kendra Sancho Vega</h1>
-<h2 align="center"> A creative and persistent Software Developer</h2>  
+<h2 align="center"> A Software Development Engineer </h2>  
 
 
 
