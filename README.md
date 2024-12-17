@@ -31,9 +31,7 @@
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />](https://www.w3.org/html/)
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />](https://www.w3schools.com/css/)
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" />](https://nodejs.org) 
-[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" />](https://postman.com) 
-[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" />](https://expressjs.com/) 
-[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" />](https://www.mysql.com/) 
+
 
 
 
@@ -45,6 +43,9 @@
 [<img alt="alt_text" width="60px" src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" />](https://www.jetbrains.com/idea/)
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" />](https://code.visualstudio.com/)
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" />](https://visualstudio.microsoft.com/es/)
+[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" />](https://postman.com) 
+[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" />](https://expressjs.com/) 
+[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" />](https://www.mysql.com/) 
 
 
 -----
