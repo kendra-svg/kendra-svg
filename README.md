@@ -25,18 +25,18 @@
 ## My Stack
 
 ### 
-<!--[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" />](https://www.java.com/en/download/help/whatis_java.html)-->
+
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"/>](https://dotnet.microsoft.com/es-es/languages/csharp)
-<!--[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" />](https://www.python.org/)-->
+
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />](https://www.w3.org/html/)
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />](https://www.w3schools.com/css/)
 
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" />](https://nodejs.org) 
-<!--[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />](https://www.mongodb.com/) -->
+
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" />](https://postman.com) 
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" />](https://expressjs.com/) 
-<!--[<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" />](https://www.djangoproject.com/)--> 
+
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" />](https://www.mysql.com/) 
 
 
