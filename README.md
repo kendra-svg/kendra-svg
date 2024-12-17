@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-   <img width="88px" height="28px" src="https://visits.dashroshan.com/CZaKhzA1cMo94kzKDpjg?label=VISITS&shadow=0&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=ad97e1&labelTextColor=FFFFFF&countTextColor=FFFFFF"/>
+   <!--<img width="88px" height="28px" src="https://visits.dashroshan.com/CZaKhzA1cMo94kzKDpjg?label=VISITS&shadow=0&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=ad97e1&labelTextColor=FFFFFF&countTextColor=FFFFFF"/>-->
 </div>
 
 
