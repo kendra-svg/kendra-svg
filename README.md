@@ -50,7 +50,7 @@
 
 -----
 <div align="center">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=d297e1&hide_border=true&layout=compact&theme=radical&hide=html,css"/>
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=d297e1&hide_border=true&layout=compact&theme=radical&hide=html,css,java"/>
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kendra-svg&custom_title=Stats%3A&bg_color=0d1117&title_color=d297e1&hide_border=true&layout=compact&theme=radical"/>
   </div>
 
