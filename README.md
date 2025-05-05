@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad97e1&height=120&fontSize=30&fontColor=d297e1&animation=twinkling&fontAlignY=30&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad97e1&height=120&fontSize=30&fontColor=027a0a&animation=twinkling&fontAlignY=30&section=header"/>
 <h1 align="center">Hey! I'm Kendra </h1>
 <h2 align="center"> A Software Development Engineer </h2>  
 
@@ -54,7 +54,7 @@
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kendra-svg&custom_title=Stats%3A&bg_color=0d1117&title_color=d297e1&hide_border=true&layout=compact&theme=radical"/>
   </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad97e1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=027a0a&height=120&section=footer"/>
 
 </p>
 <p></p>
