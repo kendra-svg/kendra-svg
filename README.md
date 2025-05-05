@@ -42,8 +42,8 @@
 
 -----
 <div align="center">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=ffffff&hide_border=true&layout=compact&theme=vue-dark&hide=html,css,java"/>
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kendra-svg&custom_title=Stats%3A&bg_color=0d1117&title_color=ffffff&hide_border=true&layout=compact&theme=vue-dark"/>
+  <img width="450px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=ffffff&hide_border=true&layout=compact&theme=vue-dark&hide=html,css,java"/>
+  <img width="500px" height="195px" src="https://github-readme-stats.vercel.app/api?username=kendra-svg&custom_title=Stats%3A&bg_color=0d1117&title_color=ffffff&hide_border=true&layout=compact&theme=vue-dark"/>
   </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=027a0a&height=120&section=footer"/>
