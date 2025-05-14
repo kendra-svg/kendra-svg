@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=027a0a&height=120&fontSize=30&fontColor=027a0a&animation=twinkling&fontAlignY=30&section=header"/>
 <h1 align="center">Hey! I'm Kendra </h1>
 <h2 align="center"> A Software Development Engineer </h2>
-<p align="center"> Currently working on backend development with C# and .NET for ICS.</p>
+<p align="center"> Currently working on backend development with C# and .NET for ICS as a Junior level II.</p>
 
 
 
