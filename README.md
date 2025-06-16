@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kendra-sancho-vega/" target="_blank" alt="LinkedIn">
-  <img  src="https://img.shields.io/badge/-Linkedin-191414?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=027a0a&amp;link=https://www.linkedin.com/in/kendra-sancho-vega/"></a>
+  <img  src="https://img.shields.io/badge/-Linkedin-191414?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=ffffff&amp;link=https://www.linkedin.com/in/kendra-sancho-vega/"></a>
   <a href="mailto:kendrasvega@gmail.com" target="_blank" alt="Gmail">
   <img src= "https://img.shields.io/badge/-Gmail-191414?style=for-the-badge&amp;logo=Gmail&amp;logoColor=027a0a&amp;link=mailto:kendrasvega@gmail.com"></a>
   <br>
