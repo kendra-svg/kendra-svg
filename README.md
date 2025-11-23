@@ -46,7 +46,7 @@
 
 -----
 <div align="center">  
-  <img width="375px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=ffffff&hide_border=true&layout=compact&theme=vue-dark&hide=html,css,javascript"/>
+  <img width="375px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=ffffff&hide_border=true&layout=compact&theme=vue-dark&hide=html,css,javascript,c,cpp,typescript"/>
   <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=kendra-svg&custom_title=Stats%3A&bg_color=0d1117&title_color=ffffff&hide_border=true&layout=compact&theme=vue-dark"/>
   </div>
 
