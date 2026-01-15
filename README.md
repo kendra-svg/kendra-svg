@@ -44,16 +44,6 @@
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" />](https://www.mysql.com/) 
 
 
------
-<div align="center">  
-  <img width="375px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendra-svg&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=ffffff&hide_border=true&layout=compact&theme=vue-dark&hide=html,css,javascript,c,cpp,typescript"/>
-  <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=kendra-svg&custom_title=Stats%3A&bg_color=0d1117&title_color=ffffff&hide_border=true&layout=compact&theme=vue-dark"/>
-  </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
-
-</p>
-<p></p>
 
 
 
