@@ -43,7 +43,7 @@
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" />](https://expressjs.com/) 
 [<img alt="alt_text" width="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" />](https://www.mysql.com/) 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
 
 
